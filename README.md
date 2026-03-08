@@ -1,2 +1,0 @@
-# Gen-AI-Documents-Assistant
-
